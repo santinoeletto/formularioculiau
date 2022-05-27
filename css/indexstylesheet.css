@@ -1,0 +1,122 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=PT+Sans&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+#contenedor{
+
+width: 1199px;
+height: 992px;
+background-color: #000;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+
+
+/*botones*/
+
+menu{
+width: 1199x;
+height: 72px;
+background-color: #000;
+ 
+    
+    text-decoration:none;
+    color: #000;
+    font-size:30px;
+
+    } 
+   menu  li{
+    display:inline-block;
+    width:10%;
+    height: 70%;
+    padding:10px;
+    background-color:#fff;
+    border:1px solid #fff;
+    text-align:center;
+
+    color:#fff;
+    float: right;
+    margin-right: 12px;
+    margin-top: 20px;
+    margin-bottom: 12px;
+    }
+   menu li:hover{
+    background-color:#fff;
+    color:#000;
+    }
+
+
+a{
+
+	text-decoration: none;
+	color: #000;
+	font-size: x-large;
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'PT Sans', sans-serif;
+
+}
+
+
+
+home{
+
+width: 1199px;
+height: 745px;
+margin-top: px;
+}
+
+footer{
+
+width: 1199px;
+height: 65px;
+background-color: #B2090B;
+
+}
+
+#logo{
+	margin-top: 15px;
+	margin-left: 12px;
+	float: left;
+	margin-bottom: px;
+}
+
+#header{
+
+	width: 1199px;
+	height: 110px;
+	background-color: #B2090B ;
+}
+
+#logosderecha{
+
+	float: right;
+	margin-right: 12px;
+margin-left: 12px;
+margin-top: 20px;
+}
+
+#logosizquierda{
+
+	float: left;
+margin-top: 20px;
+margin-left: 12px;
+margin-right: 12px;
+
+}
+
+body{
+background-color: #000;
+
+
+}
+.santino{
+
+	font-size: x-large;
+	text-align: center;
+}
